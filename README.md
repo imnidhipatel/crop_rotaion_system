@@ -4,7 +4,7 @@ This project is a culmination of extensive research, aiming to revolutionize the
 
 ## Project Overview
 
-We have engineered an innovative crop prediction system that significantly enhances reliability and profitability for farmers. Leveraging cutting-edge technologies like Machine Learning and Internet of Things (IoT), our solution provides accurate predictions for optimal crop selection, thereby maximizing yield. The technology stack comprises Machine Learning, Thingspeak API, Matlab, and Tinkercad.
+We have engineered an innovative crop prediction system that significantly enhances reliability and profitability for farmers. Leveraging cutting-edge technologies like Machine Learning and the Internet of Things (IoT), our solution provides accurate predictions for optimal crop selection, thereby maximizing yield. The technology stack comprises Machine Learning, Thingspeak API, Matlab, and Tinkercad.
 
 ## Key Features
 
@@ -32,11 +32,11 @@ We have engineered an innovative crop prediction system that significantly enhan
 
 ## Architecture
 
-![Architecture](image_arc)
+![Architecture](image_arc.png)
 
 ## Project Demonstration
 
 [Watch Demo on YouTube](https://youtu.be/9EWG7ZG6VRA)
 
-![Screenshot 1](image_1)
-![Screenshot 1](image_2)
+![Screenshot 1](image_1.png)
+![Screenshot 1](image_2.png)
