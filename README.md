@@ -32,11 +32,11 @@ We have engineered an innovative crop prediction system that significantly enhan
 
 ## Architecture
 
-![Architecture](image_arc.png)
+![Architecture](image_arc.pdf)
 
 ## Project Demonstration
 
 [Watch Demo on YouTube](https://youtu.be/9EWG7ZG6VRA)
 
-![Screenshot 1](image_1.png)
+![Screenshot 1](imag_1.png)
 ![Screenshot 1](image_2.png)
